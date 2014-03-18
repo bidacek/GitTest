@@ -10,7 +10,11 @@ namespace GitTest
     {
         //Ouch mistake
         //And next mistakze
+<<<<<<< HEAD
 
+=======
+        dddd
+>>>>>>> dddd
         //Not now
     }
 }
